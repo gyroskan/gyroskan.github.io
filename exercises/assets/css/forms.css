@@ -265,4 +265,5 @@ section p {
 }
 
 /* =============== UTILITY CLASSES ============== */
-.text-center { text-align: center !important }
+/* .text-center { text-align: center !important }input, button, textarea, select { font: inherit }
+ */
